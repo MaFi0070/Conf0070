@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 10,
   "latestVersionName": "4.2.0",
-  "minVersionCode": 10,
+  "minVersionCode": 9,
   "forceUpdate": false,
   "updateUrl": "https://github.com/yourname/FaultPass/releases/latest",
   "changelog": "Fixed connection drop on some networks and improved ping accuracy."
