@@ -3,7 +3,7 @@
   "latestVersionName": "4.2.1",
   "minVersionCode": 11,
   "forceUpdate": false,
-  "updateUrl": "https://github.com/yourname/FaultPass/releases/latest",
+  "updateUrl": "https://github.com/FaultPass/FaultPass/releases/download/v4.2.1/FaultPass-v4.2.1.apk",
   "changelog": "Fixed connection drop on some networks and improved ping accuracy."
 }
     
